@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dapplink-labs/chain-explorer-api/common/account"
+	"github.com/Gavine-Gao/chain-explorer-api/common/account"
 )
 
 func TestGetAccountBalance(t *testing.T) {

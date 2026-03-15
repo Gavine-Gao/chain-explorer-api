@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dapplink-labs/chain-explorer-api/common/token"
+	"github.com/Gavine-Gao/chain-explorer-api/common/token"
 )
 
 func TestOklinkGetETHToken(t *testing.T) {

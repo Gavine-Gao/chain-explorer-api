@@ -2,7 +2,7 @@ package oklink
 
 import (
 	"fmt"
-	"github.com/dapplink-labs/chain-explorer-api/common/transaction"
+	"github.com/Gavine-Gao/chain-explorer-api/common/transaction"
 )
 
 func (cea *ChainExplorerAdaptor) GetTxByHash(request *transaction.TxRequest) (*transaction.TxResponse, error) {

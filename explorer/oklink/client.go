@@ -3,8 +3,8 @@ package oklink
 import (
 	"time"
 
-	"github.com/dapplink-labs/chain-explorer-api/explorer"
-	"github.com/dapplink-labs/chain-explorer-api/explorer/base"
+	"github.com/Gavine-Gao/chain-explorer-api/explorer"
+	"github.com/Gavine-Gao/chain-explorer-api/explorer/base"
 )
 
 const ChainExplorerName = "oklink"

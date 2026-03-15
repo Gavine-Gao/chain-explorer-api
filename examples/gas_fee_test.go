@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dapplink-labs/chain-explorer-api/common/gas_fee"
+	"github.com/Gavine-Gao/chain-explorer-api/common/gas_fee"
 )
 
 func TestGasFee(t *testing.T) {

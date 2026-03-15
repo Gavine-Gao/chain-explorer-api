@@ -3,13 +3,13 @@ package tests
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/dapplink-labs/chain-explorer-api/explorer/solscan"
+	"github.com/Gavine-Gao/chain-explorer-api/explorer/solscan"
 	"testing"
 	"time"
 
-	"github.com/dapplink-labs/chain-explorer-api/common/account"
-	"github.com/dapplink-labs/chain-explorer-api/common/chain"
-	"github.com/dapplink-labs/chain-explorer-api/explorer/etherscan"
+	"github.com/Gavine-Gao/chain-explorer-api/common/account"
+	"github.com/Gavine-Gao/chain-explorer-api/common/chain"
+	"github.com/Gavine-Gao/chain-explorer-api/explorer/etherscan"
 )
 
 func Test_etherscan_GetTxByAddress_txList(t *testing.T) {

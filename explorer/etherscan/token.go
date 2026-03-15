@@ -2,8 +2,8 @@ package etherscan
 
 import (
 	"fmt"
-	"github.com/dapplink-labs/chain-explorer-api/common"
-	"github.com/dapplink-labs/chain-explorer-api/common/token"
+	"github.com/Gavine-Gao/chain-explorer-api/common"
+	"github.com/Gavine-Gao/chain-explorer-api/common/token"
 )
 
 func (cea *ChainExplorerAdaptor) GetTokenList(req *token.TokenRequest) ([]token.TokenResponse, error) {

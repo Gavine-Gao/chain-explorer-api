@@ -1,7 +1,7 @@
 package solscan
 
 import (
-	"github.com/dapplink-labs/chain-explorer-api/common/chain"
+	"github.com/Gavine-Gao/chain-explorer-api/common/chain"
 	"net/url"
 	"strconv"
 	"time"

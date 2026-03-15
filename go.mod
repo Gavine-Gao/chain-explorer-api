@@ -1,4 +1,4 @@
-module github.com/dapplink-labs/chain-explorer-api
+module github.com/Gavine-Gao/chain-explorer-api
 
 go 1.21.0
 

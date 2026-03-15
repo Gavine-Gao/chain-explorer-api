@@ -2,8 +2,8 @@ package solscan
 
 import (
 	"fmt"
-	"github.com/dapplink-labs/chain-explorer-api/common"
-	"github.com/dapplink-labs/chain-explorer-api/common/token"
+	"github.com/Gavine-Gao/chain-explorer-api/common"
+	"github.com/Gavine-Gao/chain-explorer-api/common/token"
 	"strconv"
 )
 

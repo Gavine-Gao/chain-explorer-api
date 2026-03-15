@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dapplink-labs/chain-explorer-api/common/transaction"
+	"github.com/Gavine-Gao/chain-explorer-api/common/transaction"
 )
 
 func TestOklinkGetTxByHash(t *testing.T) {

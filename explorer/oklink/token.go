@@ -3,7 +3,7 @@ package oklink
 import (
 	"fmt"
 
-	"github.com/dapplink-labs/chain-explorer-api/common/token"
+	"github.com/Gavine-Gao/chain-explorer-api/common/token"
 )
 
 // GET /api/v5/explorer/token/token-list

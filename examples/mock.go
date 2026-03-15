@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dapplink-labs/chain-explorer-api/explorer/etherscan"
-	"github.com/dapplink-labs/chain-explorer-api/explorer/oklink"
+	"github.com/Gavine-Gao/chain-explorer-api/explorer/etherscan"
+	"github.com/Gavine-Gao/chain-explorer-api/explorer/oklink"
 )
 
 var (

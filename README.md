@@ -8,14 +8,14 @@ parent:
 </div>
 
 <div align="center">
-  <a href="https://github.com/dapplink-labs/chain-explorer-api/releases/latest">
-    <img alt="Version" src="https://img.shields.io/github/tag/dapplink-labs/chain-explorer-api.svg" />
+  <a href="https://github.com/Gavine-Gao/chain-explorer-api/releases/latest">
+    <img alt="Version" src="https://img.shields.io/github/tag/Gavine-Gao/chain-explorer-api.svg" />
   </a>
-  <a href="https://github.com/dapplink-labs/chain-explorer-api/blob/main/LICENSE">
-    <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/dapplink-labs/chain-explorer-api.svg" />
+  <a href="https://github.com/Gavine-Gao/chain-explorer-api/blob/main/LICENSE">
+    <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/Gavine-Gao/chain-explorer-api.svg" />
   </a>
-  <a href="https://pkg.go.dev/github.com/dapplink-labs/chain-explorer-api">
-    <img alt="GoDoc" src="https://godoc.org/github.com/dapplink-labs/chain-explorer-api?status.svg" />
+  <a href="https://pkg.go.dev/github.com/Gavine-Gao/chain-explorer-api">
+    <img alt="GoDoc" src="https://godoc.org/github.com/Gavine-Gao/chain-explorer-api?status.svg" />
   </a>
 </div>
 

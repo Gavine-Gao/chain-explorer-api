@@ -3,9 +3,9 @@ package etherscan
 import (
 	"fmt"
 
-	"github.com/dapplink-labs/chain-explorer-api/common"
-	"github.com/dapplink-labs/chain-explorer-api/common/account"
-	"github.com/dapplink-labs/chain-explorer-api/common/chain"
+	"github.com/Gavine-Gao/chain-explorer-api/common"
+	"github.com/Gavine-Gao/chain-explorer-api/common/account"
+	"github.com/Gavine-Gao/chain-explorer-api/common/chain"
 )
 
 func (cea *ChainExplorerAdaptor) GetAccountBalance(req *account.AccountBalanceRequest) (*account.AccountBalanceResponse, error) {
